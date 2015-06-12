@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1594F08DCAB74A70BA0B0480 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94537F2950F0ACF8D4DADFD0 /* Pods.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		2270C55E4739F70E8D09B19F /* Pods_HGImagePicker_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4B880DBFDB9B2C885360A56 /* Pods_HGImagePicker_Example.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		282B54852F310AAC6538578C /* Pods_HGImagePicker_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EA13E8AD0115B5C8EAA3514 /* Pods_HGImagePicker_Tests.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
@@ -16,13 +17,17 @@
 		6003F59A195388D20070C39A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F599195388D20070C39A /* main.m */; };
 		6003F59E195388D20070C39A /* HGAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F59D195388D20070C39A /* HGAppDelegate.m */; };
 		6003F5A7195388D20070C39A /* HGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5A6195388D20070C39A /* HGViewController.m */; };
-		6003F5A9195388D20070C39A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5A8195388D20070C39A /* Images.xcassets */; };
 		6003F5B0195388D20070C39A /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F5AF195388D20070C39A /* XCTest.framework */; };
 		6003F5B1195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
+		8EFBA2572D3D8A0E72DCC34C /* Screen1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EFBA95A68287A7AF015B6D5 /* Screen1.png */; };
+		8EFBA625A1B7FFA97C8CFA50 /* Screen3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EFBAF3CC6112B80F4F3D6FA /* Screen3.png */; };
+		8EFBAAD04690361F4E7F2A16 /* Screen2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EFBAB8895E76F516F88F122 /* Screen2.png */; };
+		A1EE01681B2AD2BF00A2948D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A1EE01671B2AD2BF00A2948D /* Localizable.strings */; };
+		A1EE016A1B2AD33D00A2948D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1EE01691B2AD33D00A2948D /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +45,7 @@
 		14F85221C0BCBCA4F14FA30D /* Pods-HGImagePicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HGImagePicker_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-HGImagePicker_Example/Pods-HGImagePicker_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3EA13E8AD0115B5C8EAA3514 /* Pods_HGImagePicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HGImagePicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D9C0DB1D9A8BBF78ECD5DFA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		6003F58A195388D20070C39A /* HGImagePicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = HGImagePicker.app; path = HGImagePicker_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6003F58A195388D20070C39A /* HGImagePicker_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HGImagePicker_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6003F591195388D20070C39A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -52,8 +57,7 @@
 		6003F59D195388D20070C39A /* HGAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HGAppDelegate.m; sourceTree = "<group>"; };
 		6003F5A5195388D20070C39A /* HGViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HGViewController.h; sourceTree = "<group>"; };
 		6003F5A6195388D20070C39A /* HGViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HGViewController.m; sourceTree = "<group>"; };
-		6003F5A8195388D20070C39A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		6003F5AE195388D20070C39A /* Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Tests.xctest; path = HGImagePicker_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6003F5AE195388D20070C39A /* HGImagePicker_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HGImagePicker_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F5AF195388D20070C39A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		6003F5B7195388D20070C39A /* Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tests-Info.plist"; sourceTree = "<group>"; };
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -63,6 +67,12 @@
 		800C6BF0208974CC00DB7093 /* Pods-HGImagePicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HGImagePicker_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HGImagePicker_Example/Pods-HGImagePicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8CD57CCAE3405CED769BD83A /* Pods-HGImagePicker_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HGImagePicker_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HGImagePicker_Tests/Pods-HGImagePicker_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		8EFBA95A68287A7AF015B6D5 /* Screen1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen1.png; sourceTree = "<group>"; };
+		8EFBAB8895E76F516F88F122 /* Screen2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen2.png; sourceTree = "<group>"; };
+		8EFBAF3CC6112B80F4F3D6FA /* Screen3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen3.png; sourceTree = "<group>"; };
+		94537F2950F0ACF8D4DADFD0 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1EE01671B2AD2BF00A2948D /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		A1EE01691B2AD33D00A2948D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		C4B880DBFDB9B2C885360A56 /* Pods_HGImagePicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HGImagePicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAC93C9E26D91BFAA5233247 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -76,6 +86,7 @@
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
 				2270C55E4739F70E8D09B19F /* Pods_HGImagePicker_Example.framework in Frameworks */,
+				1594F08DCAB74A70BA0B0480 /* Pods.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -108,8 +119,8 @@
 		6003F58B195388D20070C39A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6003F58A195388D20070C39A /* HGImagePicker.app */,
-				6003F5AE195388D20070C39A /* Tests.xctest */,
+				6003F58A195388D20070C39A /* HGImagePicker_Example.app */,
+				6003F5AE195388D20070C39A /* HGImagePicker_Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,6 +134,7 @@
 				6003F5AF195388D20070C39A /* XCTest.framework */,
 				C4B880DBFDB9B2C885360A56 /* Pods_HGImagePicker_Example.framework */,
 				3EA13E8AD0115B5C8EAA3514 /* Pods_HGImagePicker_Tests.framework */,
+				94537F2950F0ACF8D4DADFD0 /* Pods.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -135,7 +147,6 @@
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* HGViewController.h */,
 				6003F5A6195388D20070C39A /* HGViewController.m */,
-				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
 			);
 			name = "Example for HGImagePicker";
@@ -145,10 +156,12 @@
 		6003F594195388D20070C39A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A1EE01691B2AD33D00A2948D /* Images.xcassets */,
 				6003F595195388D20070C39A /* HGImagePicker-Info.plist */,
 				6003F596195388D20070C39A /* InfoPlist.strings */,
 				6003F599195388D20070C39A /* main.m */,
 				6003F59B195388D20070C39A /* HGImagePicker-Prefix.pch */,
+				A1EE01671B2AD2BF00A2948D /* Localizable.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -178,6 +191,9 @@
 				118DB076500BCAA7A2953E94 /* HGImagePicker.podspec */,
 				DAC93C9E26D91BFAA5233247 /* README.md */,
 				4D9C0DB1D9A8BBF78ECD5DFA /* LICENSE */,
+				8EFBA95A68287A7AF015B6D5 /* Screen1.png */,
+				8EFBAF3CC6112B80F4F3D6FA /* Screen3.png */,
+				8EFBAB8895E76F516F88F122 /* Screen2.png */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -213,7 +229,7 @@
 			);
 			name = HGImagePicker_Example;
 			productName = HGImagePicker;
-			productReference = 6003F58A195388D20070C39A /* HGImagePicker.app */;
+			productReference = 6003F58A195388D20070C39A /* HGImagePicker_Example.app */;
 			productType = "com.apple.product-type.application";
 		};
 		6003F5AD195388D20070C39A /* HGImagePicker_Tests */ = {
@@ -234,7 +250,7 @@
 			);
 			name = HGImagePicker_Tests;
 			productName = HGImagePickerTests;
-			productReference = 6003F5AE195388D20070C39A /* Tests.xctest */;
+			productReference = 6003F5AE195388D20070C39A /* HGImagePicker_Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -277,8 +293,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
-				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
+				A1EE016A1B2AD33D00A2948D /* Images.xcassets in Resources */,
+				A1EE01681B2AD2BF00A2948D /* Localizable.strings in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
+				8EFBA2572D3D8A0E72DCC34C /* Screen1.png in Resources */,
+				8EFBA625A1B7FFA97C8CFA50 /* Screen3.png in Resources */,
+				8EFBAAD04690361F4E7F2A16 /* Screen2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -380,7 +400,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HGImagePicker_Example/Pods-HGImagePicker_Example-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -515,8 +535,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HGImagePicker/HGImagePicker-Prefix.pch";
 				INFOPLIST_FILE = "HGImagePicker/HGImagePicker-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -530,8 +552,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HGImagePicker/HGImagePicker-Prefix.pch";
 				INFOPLIST_FILE = "HGImagePicker/HGImagePicker-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

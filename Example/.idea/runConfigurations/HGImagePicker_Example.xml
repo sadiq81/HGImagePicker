@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HGImagePicker-Example" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="HGImagePicker" TARGET_NAME="HGImagePicker_Example" CONFIG_NAME="Debug" SCHEME_NAME="HGImagePicker-Example" RUN_TARGET_PROJECT_NAME="HGImagePicker" RUN_TARGET_NAME="HGImagePicker_Example" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+    <envs />
+    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+      <REVEAL_SETTINGS autoInject="true" autoInstall="true" askToEnableAutoInstall="true" />
+    </EXTENSION>
+    <RunnerSettings RunnerId="AppRunner" />
+    <ConfigurationWrapper RunnerId="AppRunner" />
+    <method />
+  </configuration>
+</component>

@@ -1,0 +1,51 @@
+PODS:
+  - ALActionBlocks (1.0.3)
+  - AsyncImageView (1.5.1)
+  - ClusterPrePermissions (0.5.0)
+  - CTAssetsPickerController (2.9.4)
+  - HGImagePicker (1.0.0):
+    - ALActionBlocks (~> 1.0.3)
+    - AsyncImageView (~> 1.5.1)
+    - CTAssetsPickerController (~> 2.9.3)
+    - LinqToObjectiveC (~> 2.0.0)
+    - MSSPopMasonry (~> 0.0.1)
+    - pop (~> 1.0)
+    - ReactiveCocoa (~> 2.4.7)
+  - KASlideShow (2.2)
+  - LinqToObjectiveC (2.0.0)
+  - Masonry (0.6.1)
+  - MSSPopMasonry (0.0.1):
+    - Masonry
+    - pop
+  - pop (1.0.7)
+  - ReactiveCocoa (2.4.7):
+    - ReactiveCocoa/UI (= 2.4.7)
+  - ReactiveCocoa/Core (2.4.7):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.4.7)
+  - ReactiveCocoa/UI (2.4.7):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - ClusterPrePermissions (~> 0.1)
+  - HGImagePicker (from `../`)
+  - KASlideShow (~> 2.2)
+
+EXTERNAL SOURCES:
+  HGImagePicker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ALActionBlocks: ac91b1a37b60a8004fb687ddade0600446f3d3fa
+  AsyncImageView: db9433939160710b34a5c249479e03af2a2121b0
+  ClusterPrePermissions: f7c18aed36022662a05048fffb44b24b9e796cff
+  CTAssetsPickerController: 3030dc60f5d1a3c4e5b1c0aa9f069220d5bf7008
+  HGImagePicker: 6f3394c10d399042d0b9ff88b86e9430fdfba19c
+  KASlideShow: 380f5ecee5f14370c9435ecedccee5b35fb69c5f
+  LinqToObjectiveC: 768f98c62d5b57cb6bdb7ab869e33d0a7a2da29c
+  Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
+  MSSPopMasonry: 6700cb03db3f2e7c16ecc96f53c0bd1a2a73fc4f
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  ReactiveCocoa: eb38dee0a0e698f73a9b25e5c1faea2bb4c79240
+
+COCOAPODS: 0.37.2

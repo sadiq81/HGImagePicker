@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/HGImagePicker/HGViewController.m" line="59" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22d5d9ae-3d53-4f08-af1f-314cd02df108" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGPictureCollectionViewCell.Selected.imageset/HGPictureCollectionViewCell.Selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGPictureCollectionViewCell.Selected.imageset/HGPictureCollectionViewCell.Selected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGPictureCollectionViewCell.Selected.imageset/HGPictureCollectionViewCell.Selected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screen1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screen2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screen3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Camera.imageset/UIBarButtonImage.Camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Camera.imageset/UIBarButtonImage.Camera@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Camera.imageset/UIBarButtonImage.Camera@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Trash.imageset/UIBarButtonImage.Trash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Trash.imageset/UIBarButtonImage.Trash@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Trash.imageset/UIBarButtonImage.Trash@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Camera.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Trash.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGPictureCollectionViewCell.Selected.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Example.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerButton.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/HGImagePicker_Example.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGPictureCollectionViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGPictureCollectionViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Podfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pods_HGImagePicker_Example_HGImagePicker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pods_HGImagePicker_Example_HGImagePicker_HGImagePicker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pods_HGImagePicker_Tests_HGImagePicker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pods_HGImagePicker_Tests_HGImagePicker_HGImagePicker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Pod/Classes/ReplaceMe.m" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker.xcodeproj/xcshareddata/xcschemes/HGImagePicker-Example.xcscheme" afterPath="$PROJECT_DIR$/HGImagePicker.xcodeproj/xcshareddata/xcschemes/HGImagePicker-Example.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/HGImagePicker-Info.plist" afterPath="$PROJECT_DIR$/HGImagePicker/HGImagePicker-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HGImagePicker.podspec" afterPath="$PROJECT_DIR$/../HGImagePicker.podspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/HGViewController.h" afterPath="$PROJECT_DIR$/HGImagePicker/HGViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/HGViewController.m" afterPath="$PROJECT_DIR$/HGImagePicker/HGViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/Main.storyboard" afterPath="$PROJECT_DIR$/HGImagePicker/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile" afterPath="$PROJECT_DIR$/Podfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/HGImagePicker.xcodeproj/project.pbxproj" />
+    </list>
+    <ignored path="Example.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_iPhone_6_Plus_8.3_x86_64_1" />
+  <component name="FavoritesManager">
+    <favorites_list name="HGImagePicker" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HGViewController.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HGImagePicker/HGViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="449" max-vertical-offset="988">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="71" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HGImagePickerController.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2464" max-vertical-offset="4407">
+              <caret line="169" column="31" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HGImagePicker.podspec" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../HGImagePicker.podspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.6641929" vertical-offset="0" max-vertical-offset="1222">
+              <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Podfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Podfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="273">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HGImagePicker/HGViewController.h" />
+        <option value="$PROJECT_DIR$/HGImagePicker/en.lproj/InfoPlist.strings" />
+        <option value="$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.m" />
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/HGImagePicker/HGViewController.m" />
+        <option value="$PROJECT_DIR$/../HGImagePicker.podspec" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="49" />
+    <option name="y" value="23" />
+    <option name="width" value="1391" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Development Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HGImagePicker" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Development Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HGImagePicker" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pod" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HGImagePicker" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HGImagePicker" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Podspec Metadata" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="HGImagePicker_Example" />
+  </component>
+  <component name="RunManager" selected="Application.HGImagePicker-Example">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="HGImagePicker" TARGET_NAME="HGImagePicker_Example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HGImagePicker" RUN_TARGET_NAME="HGImagePicker_Example" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="HGImagePicker" TARGET_NAME="HGImagePicker_Tests" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="HGImagePicker" TARGET_NAME="HGImagePicker_Example" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-ALActionBlocks" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-ALActionBlocks" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-ALActionBlocks" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-AsyncImageView" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-AsyncImageView" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-AsyncImageView" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-CTAssetsPickerController-CTAssetsPickerController" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-CTAssetsPickerController-CTAssetsPickerController" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-CTAssetsPickerController-CTAssetsPickerController" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-CTAssetsPickerController" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-CTAssetsPickerController" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-CTAssetsPickerController" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-LinqToObjectiveC" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-LinqToObjectiveC" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-LinqToObjectiveC" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-Masonry" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-Masonry" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-Masonry" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-MSSPopMasonry" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-MSSPopMasonry" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-MSSPopMasonry" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-pop" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-pop" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-pop" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example-ReactiveCocoa" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example-ReactiveCocoa" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example-ReactiveCocoa" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Example" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Example" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Example" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-ALActionBlocks" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-ALActionBlocks" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-ALActionBlocks" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-AsyncImageView" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-AsyncImageView" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-AsyncImageView" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-CTAssetsPickerController-CTAssetsPickerController" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-CTAssetsPickerController-CTAssetsPickerController" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-CTAssetsPickerController-CTAssetsPickerController" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-CTAssetsPickerController" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-CTAssetsPickerController" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-CTAssetsPickerController" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-LinqToObjectiveC" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-LinqToObjectiveC" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-LinqToObjectiveC" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-Masonry" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-Masonry" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-Masonry" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-MSSPopMasonry" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-MSSPopMasonry" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-MSSPopMasonry" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-pop" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-pop" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-pop" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests-ReactiveCocoa" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests-ReactiveCocoa" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests-ReactiveCocoa" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-HGImagePicker_Tests" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-HGImagePicker_Tests" CONFIG_NAME="Debug" SCHEME_NAME="Pods-HGImagePicker_Tests" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-ClusterPrePermissions" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-ClusterPrePermissions" CONFIG_NAME="Debug" SCHEME_NAME="Pods-ClusterPrePermissions" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-KASlideShow" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods-KASlideShow" CONFIG_NAME="Debug" SCHEME_NAME="Pods-KASlideShow" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods" CONFIG_NAME="Debug" SCHEME_NAME="Pods" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="28">
+      <item index="0" class="java.lang.String" itemvalue="Application.HGImagePicker-Example" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-ALActionBlocks" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-AsyncImageView" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-CTAssetsPickerController-CTAssetsPickerController" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-CTAssetsPickerController" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-LinqToObjectiveC" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-Masonry" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-MSSPopMasonry" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-pop" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-ReactiveCocoa" />
+      <item index="10" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example" />
+      <item index="11" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-ALActionBlocks" />
+      <item index="12" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-AsyncImageView" />
+      <item index="13" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-CTAssetsPickerController-CTAssetsPickerController" />
+      <item index="14" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-CTAssetsPickerController" />
+      <item index="15" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-LinqToObjectiveC" />
+      <item index="16" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-Masonry" />
+      <item index="17" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-MSSPopMasonry" />
+      <item index="18" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-pop" />
+      <item index="19" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-ReactiveCocoa" />
+      <item index="20" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests" />
+      <item index="21" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-HGImagePicker-HGImagePicker" />
+      <item index="22" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Example-HGImagePicker" />
+      <item index="23" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-HGImagePicker-HGImagePicker" />
+      <item index="24" class="java.lang.String" itemvalue="Application.Pods-HGImagePicker_Tests-HGImagePicker" />
+      <item index="25" class="java.lang.String" itemvalue="Application.Pods-ClusterPrePermissions" />
+      <item index="26" class="java.lang.String" itemvalue="Application.Pods-KASlideShow" />
+      <item index="27" class="java.lang.String" itemvalue="Application.Pods" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d5d9ae-3d53-4f08-af1f-314cd02df108" name="Default" comment="" />
+      <created>1434097526945</created>
+      <option name="number" value="Default" />
+      <updated>1434097526945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="23" width="1391" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.277707" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866243" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23430657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HGImagePicker/HGViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2366" max-vertical-offset="4511">
+          <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pod/Classes/HGPictureCollectionViewCell.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="975">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/appCode31/DerivedData/HGImagePicker-37b87c37/Build/Products/Debug-iphoneos/Pods-HGImagePicker_Example/HGImagePicker.framework/Headers/HGImagePickerController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HGImagePicker/HGViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding>
+            <element signature="e#172#186#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HGImagePicker/en.lproj/InfoPlist.strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029345373" vertical-offset="0" max-vertical-offset="443">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pod/Classes/HGPictureCollectionViewCell.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17996289" vertical-offset="410" max-vertical-offset="949">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HGImagePicker/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24118738" vertical-offset="0" max-vertical-offset="539">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="273">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1853" max-vertical-offset="4407">
+          <caret line="169" column="31" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HGImagePicker/HGViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="449" max-vertical-offset="988">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="71" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HGImagePicker.podspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6641929" vertical-offset="0" max-vertical-offset="1222">
+          <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

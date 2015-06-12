@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  HGImagePicker
+
+  Created by Privat on 12/06/15.
+  Copyright (c) 2015 Tommy Sadiq Hinrichsen. All rights reserved.
+*/
+
+"HGImagePickerView.button.approve" = "Add 1 picture";
+"HGImagePickerView.button.approve.multiple" = "Add %lu pictures";
+"HGImagePickerView.button.photoLibrary" = "Photo library";
+"HGImagePickerView.button.takePicture" = "Take picture";
+"HGImagePickerView.button.cancel" = "Regret";
+
+"HGImagePickerController.button.confirm" = "Approve";
+"HGImagePickerController.button.cancel" = "Regret";
+"HGImagePickerController.label.no.pictures" = "You have not added any pictures, press the camera to add pictures";
+"HGImagePickerController.label.max.pictures" = "You can choose a maximum of %i picture(s)";

@@ -1,6 +1,9 @@
 source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
+pod 'ClusterPrePermissions', '~> 0.1'
+pod 'KASlideShow', '~> 2.2'
+
 target 'HGImagePicker_Example', :exclusive => true do
   pod "HGImagePicker", :path => "../"
 end

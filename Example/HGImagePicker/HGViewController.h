@@ -8,6 +8,15 @@
 
 @import UIKit;
 
-@interface HGViewController : UIViewController
+#import <HGImagePicker/HGImagePickerController.h>
+
+@class KASlideShow;
+
+
+@interface HGViewController : UIViewController <HGImagePickerControllerDelegate>
+
+@property(weak, nonatomic) IBOutlet KASlideShow *slideShow;
+
+- (IBAction)pickImages:(id)sender;
 
 @end
