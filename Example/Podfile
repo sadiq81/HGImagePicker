@@ -4,12 +4,4 @@ use_frameworks!
 pod 'ClusterPrePermissions', '~> 0.1'
 pod 'KASlideShow', '~> 2.2'
 
-target 'HGImagePicker_Example', :exclusive => true do
-  pod "HGImagePicker", :path => "../"
-end
-
-target 'HGImagePicker_Tests', :exclusive => true do
-  pod "HGImagePicker", :path => "../"
-
-  
-end
+pod 'HGImagePicker', :git => 'https://github.com/sadiq81/HGImagePicker.git'
