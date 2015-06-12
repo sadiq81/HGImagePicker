@@ -17,6 +17,31 @@ to mimic the same behaviour of the Messages app.
 
 ## Usage
 
+There are some string localization resources and some image resources you need to have in your project
+
+Example of english string localization:
+```Objective-C
+"HGImagePickerView.button.approve" = "Add 1 picture";
+"HGImagePickerView.button.approve.multiple" = "Add %lu pictures";
+"HGImagePickerView.button.photoLibrary" = "Photo library";
+"HGImagePickerView.button.takePicture" = "Take picture";
+"HGImagePickerView.button.cancel" = "Regret";
+
+"HGImagePickerController.button.confirm" = "Approve";
+"HGImagePickerController.button.cancel" = "Regret";
+"HGImagePickerController.label.no.pictures" = "You have not added any pictures, press the camera to add pictures";
+"HGImagePickerController.label.max.pictures" = "You can choose a maximum of %i picture(s)";
+```
+
+List of image resources:
+```Objective-C
+HGImagePickerController.UIBarButtonImage.Camera
+HGImagePickerController.UIBarButtonImage.Trash
+HGPictureCollectionViewCell.Selected
+```
+
+See the example project for image examples, note that the images included in the sample is Copyright protected so you need to find you own images.
+
 <h3>Display HGImagePickerController</h3>
 ```Objective-C
 HGImagePickerController *imagePickerController = [HGImagePickerController controllerWithDelegate:self];
