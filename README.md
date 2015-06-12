@@ -12,8 +12,8 @@ HGImagepicker combines a list of recent pictures with CTAssetsPickerController a
 to mimic the same behaviour of the Messages app.
 
 <img src="https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen1.png" alt="Initial Screen" style="width: 200px;"/>
-<img src="https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen1.png" alt="Image source picker" style="width: 200px;"/>
-<img src="https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen1.png" alt="Photo gallery using CTAssetsPickerController" style="width: 200px;"/>
+<img src="https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen2.png" alt="Image source picker" style="width: 200px;"/>
+<img src="https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen3.png" alt="Photo gallery using CTAssetsPickerController" style="width: 200px;"/>
 
 ## Usage
 
