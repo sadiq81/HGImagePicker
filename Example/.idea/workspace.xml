@@ -5,56 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22d5d9ae-3d53-4f08-af1f-314cd02df108" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGPictureCollectionViewCell.Selected.imageset/HGPictureCollectionViewCell.Selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGPictureCollectionViewCell.Selected.imageset/HGPictureCollectionViewCell.Selected@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGPictureCollectionViewCell.Selected.imageset/HGPictureCollectionViewCell.Selected@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screen1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screen2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screen3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Camera.imageset/UIBarButtonImage.Camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Camera.imageset/UIBarButtonImage.Camera@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Camera.imageset/UIBarButtonImage.Camera@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Trash.imageset/UIBarButtonImage.Trash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Trash.imageset/UIBarButtonImage.Trash@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Trash.imageset/UIBarButtonImage.Trash@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Camera.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGImagePickerController.UIBarButtonImage.Trash.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/HGPictureCollectionViewCell.Selected.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Example.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerButton.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerButton.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGImagePickerView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/HGImagePicker_Example.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGPictureCollectionViewCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pod/Classes/HGPictureCollectionViewCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker/Localizable.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Podfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pods_HGImagePicker_Example_HGImagePicker.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pods_HGImagePicker_Example_HGImagePicker_HGImagePicker.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pods_HGImagePicker_Tests_HGImagePicker.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pods_HGImagePicker_Tests_HGImagePicker_HGImagePicker.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HGImagePicker.xcworkspace/contents.xcworkspacedata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Pod/Classes/ReplaceMe.m" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/HGImagePicker/Images.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker.xcodeproj/xcshareddata/xcschemes/HGImagePicker-Example.xcscheme" afterPath="$PROJECT_DIR$/HGImagePicker.xcodeproj/xcshareddata/xcschemes/HGImagePicker-Example.xcscheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/HGImagePicker-Info.plist" afterPath="$PROJECT_DIR$/HGImagePicker/HGImagePicker-Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HGImagePicker.podspec" afterPath="$PROJECT_DIR$/../HGImagePicker.podspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/HGViewController.h" afterPath="$PROJECT_DIR$/HGImagePicker/HGViewController.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/HGViewController.m" afterPath="$PROJECT_DIR$/HGImagePicker/HGViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker/Main.storyboard" afterPath="$PROJECT_DIR$/HGImagePicker/Main.storyboard" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile" afterPath="$PROJECT_DIR$/Podfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HGImagePicker.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/HGImagePicker.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,7 +33,7 @@
       <file leaf-file-name="HGViewController.m" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HGImagePicker/HGViewController.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="449" max-vertical-offset="988">
+            <state vertical-scroll-proportion="0.0" vertical-offset="689" max-vertical-offset="1040">
               <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="71" selection-end-column="1" />
               <folding />
             </state>
@@ -91,18 +43,31 @@
       <file leaf-file-name="HGImagePickerController.m" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2464" max-vertical-offset="4407">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2197" max-vertical-offset="4511">
               <caret line="169" column="31" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HGImagePicker.podspec" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HGImagePicker.podspec" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HGImagePicker.podspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6641929" vertical-offset="0" max-vertical-offset="1222">
-              <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="767" max-vertical-offset="1222">
+              <caret line="59" column="153" selection-start-line="14" selection-start-column="23" selection-end-line="59" selection-end-column="153" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.055020634" vertical-offset="300" max-vertical-offset="1027">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,7 +76,7 @@
       <file leaf-file-name="Podfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Podfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="273">
+            <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="273">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
@@ -132,6 +97,7 @@
         <option value="$PROJECT_DIR$/Podfile" />
         <option value="$PROJECT_DIR$/HGImagePicker/HGViewController.m" />
         <option value="$PROJECT_DIR$/../HGImagePicker.podspec" />
+        <option value="$PROJECT_DIR$/../README.md" />
       </list>
     </option>
   </component>
@@ -503,25 +469,25 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.277707" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866243" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23430657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.277707" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866243" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -547,6 +513,49 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HGImagePicker/HGViewController.m">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="689" max-vertical-offset="1040">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="71" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pod/Classes/HGImagePickerController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2197" max-vertical-offset="4511">
+          <caret line="169" column="31" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HGImagePicker.podspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="767" max-vertical-offset="1222">
+          <caret line="59" column="153" selection-start-line="14" selection-start-column="23" selection-end-line="59" selection-end-column="153" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="273">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HGImagePicker/HGViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -565,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="975">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
           <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,9 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
           <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding>
-            <element signature="e#172#186#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -598,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17996289" vertical-offset="410" max-vertical-offset="949">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24118738" vertical-offset="0" max-vertical-offset="539">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,8 +638,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../HGImagePicker.podspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6641929" vertical-offset="0" max-vertical-offset="1222">
-          <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1222">
+          <caret line="59" column="153" selection-start-line="14" selection-start-column="23" selection-end-line="59" selection-end-column="153" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.055020634" vertical-offset="300" max-vertical-offset="1027">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
