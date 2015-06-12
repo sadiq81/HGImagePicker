@@ -11,9 +11,9 @@ then you need not look any further.
 HGImagepicker combines a list of recent pictures with CTAssetsPickerController and Apples UIImagePickerController
 to mimic the same behaviour of the Messages app.
 
-![Initial Screen](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen1.png)
-![Image source picker](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen2.png)
-![Photo gallery using CTAssetsPickerController](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen3.png)
+![Initial Screen](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen1.png=200x)
+![Image source picker](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen2.png=200x)
+![Photo gallery using CTAssetsPickerController](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen3.png=200x)
 
 
 ## Usage
