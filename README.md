@@ -11,14 +11,14 @@ then you need not look any further.
 HGImagepicker combines a list of recent pictures with CTAssetsPickerController and Apples UIImagePickerController
 to mimic the same behaviour of the Messages app.
 
-![Initial Screen](https://github.com/sadiq81/HGImagePicker/Example/Screen1.png)
-![Image source picker](https://github.com/sadiq81/HGImagePicker/Example/Screen2.png)
-![Photo gallery using CTAssetsPickerController](https://github.com/sadiq81/HGImagePicker/Example/Screen3.png)
+![Initial Screen](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen1.png)
+![Image source picker](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen2.png)
+![Photo gallery using CTAssetsPickerController](https://github.com/sadiq81/HGImagePicker/blob/master/Example/Screen3.png)
 
 
 ## Usage
 
-<h1>Display HGImagePickerController<h1>
+<h1>Display HGImagePickerController</h1>
 ```Objective-C
 HGImagePickerController *imagePickerController = [HGImagePickerController controllerWithDelegate:self];
 imagePickerController.modalPresentationStyle = UIModalPresentationFullScreen;
@@ -26,7 +26,7 @@ imagePickerController.modalTransitionStyle = UIModalTransitionStyleCoverVertical
 [self presentViewController:imagePickerController animated:true completion:nil];
 ```
 
-<h1>Delegate callback when the user confirms the choice of images<h1>
+<h1>Delegate callback when the user confirms the choice of images</h1>
 ```Objective-C
 - (void)HGImagePickerControllerDidConfirm:(HGImagePickerController *)controller pictures:(NSArray *)pictures {
    @weakify(self)
@@ -37,7 +37,7 @@ imagePickerController.modalTransitionStyle = UIModalTransitionStyleCoverVertical
    }];
 }
 ```
-<h1>Delegate callback when the user cancels<h1>
+<h1>Delegate callback when the user cancels</h1>
 ```Objective-C
 - (void)HGImagePickerControllerDidCancel:(HGImagePickerController *)controller {
    @weakify(self)
