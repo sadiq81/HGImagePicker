@@ -34,9 +34,11 @@ Example of english string localization:
 ```
 
 List of image resources:
+```Objective-C
 HGImagePickerController.UIBarButtonImage.Camera
 HGImagePickerController.UIBarButtonImage.Trash
 HGPictureCollectionViewCell.Selected
+```
 
 See the example project for image examples, note that the images included in the sample is Copyright protected so you need to find you own images.
 
