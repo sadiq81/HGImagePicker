@@ -17,7 +17,7 @@ to mimic the same behaviour of the Messages app.
 
 ## Usage
 
-<h1>Display HGImagePickerController</h1>
+<h3>Display HGImagePickerController</h3>
 ```Objective-C
 HGImagePickerController *imagePickerController = [HGImagePickerController controllerWithDelegate:self];
 imagePickerController.modalPresentationStyle = UIModalPresentationFullScreen;
@@ -25,7 +25,7 @@ imagePickerController.modalTransitionStyle = UIModalTransitionStyleCoverVertical
 [self presentViewController:imagePickerController animated:true completion:nil];
 ```
 
-<h1>Delegate callback when the user confirms the choice of images</h1>
+<h3>Delegate callback when the user confirms the choice of images</h3>
 ```Objective-C
 - (void)HGImagePickerControllerDidConfirm:(HGImagePickerController *)controller pictures:(NSArray *)pictures {
    @weakify(self)
@@ -36,7 +36,7 @@ imagePickerController.modalTransitionStyle = UIModalTransitionStyleCoverVertical
    }];
 }
 ```
-<h1>Delegate callback when the user cancels</h1>
+<h3>Delegate callback when the user cancels</h3>
 ```Objective-C
 - (void)HGImagePickerControllerDidCancel:(HGImagePickerController *)controller {
    @weakify(self)
